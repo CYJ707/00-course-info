@@ -6,12 +6,16 @@ Department of Information Management and Finance, National Yang Ming Chiao Tung 
 Public course materials for the course. Student repositories live in this same
 organization, one per student, named `<STUDENTID>-<NICKNAME>`.
 
+✅ [Google form to collect github info](https://docs.google.com/spreadsheets/d/1GCOm4p9UHnkvxIypEKqLpNYMcwCQtH8mhcFS0QIZDEc/edit?usp=sharing)
+
+
 ## Contents
 
 | Folder | Holds |
 |---|---|
 | `slides/` | Lecture slides, `yyyymmdd` prefixed |
 | `in-class-exercise/` | In-class exercise worksheets |
+| `homework/` | Homework assignments, `HW-mmdd.md` |
 | `journal-ranking/` | NSTC 財務領域 journal tiers and related ranking references |
 
 ## Course links
@@ -37,6 +41,8 @@ See `journal-ranking/` for the NSTC 財會學門財務領域 tier report and rel
 ## Homework
 
 ### 0914
+
+Full instructions: **[homework/HW-0914.md](homework/HW-0914.md)**
 
 From *An Introduction to Statistical Learning with Applications in Python* (ISLP), §2.4 Exercises.
 
